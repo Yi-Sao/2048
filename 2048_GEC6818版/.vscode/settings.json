@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "show-bmp.h": "c",
+        "touch-event.h": "c",
+        "fcntl.h": "c",
+        "stdio.h": "c"
+    }
+}
